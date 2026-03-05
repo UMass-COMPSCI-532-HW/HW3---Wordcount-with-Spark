@@ -1,4 +1,7 @@
 # HW3 —— Wordcount with Spark
+## By: 
+- Shiqi Chen
+- Nalongsone Danddank
 
 This HW implements three PySpark applications using the native DataFrame API to analyze the `hamlet.txt` file.
 
