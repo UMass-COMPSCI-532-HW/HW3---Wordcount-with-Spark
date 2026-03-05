@@ -1,5 +1,5 @@
 # HW3 —— Wordcount with Spark
-## By: 
+By: 
 - Shiqi Chen
 - Nalongsone Danddank
 
